@@ -1,4 +1,4 @@
-import { Wrapper } from './components/wrapper';
+import { Wrapper } from './components/wrapper/Wrapper';
 import { RootStoreContext } from './root-store-context';
 
 import RootStore from './stores/root-store';
